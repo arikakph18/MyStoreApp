@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">My Store App</string>
+    <string name="text_name">name</string>
+    <string name="txt_name_detail">Name</string>
+    <string-array name="username">
+        <item>doll shop</item>
+        <item>selling flowers</item>
+        <item>shoe store</item>
+        <item>clothes shop</item>
+        <item>sandal shop</item>
+        <item>hood shop</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Newest Doll</item>
+        <item>Beautiful Flower</item>
+        <item>Imported Shoes</item>
+        <item>Fashion Trends </item>
+        <item>Slippers</item>
+        <item>Bergo Maryam</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Korea</item>
+        <item>Bogor Jawa Barat</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Google, Inc.</item>
+        <item>MindOrksOpenSource</item>
+        <item>Google</item>
+        <item>Google working on @android</item>
+        <item>Working Group Two</item>
+        <item>AndroidHive | Droid5</item>
+    </string-array>
+
+    <string-array name="like">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="follow">
+        <item>12</item>
+        <item>0</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/toko1</item>
+        <item>@drawable/toko2</item>
+        <item>@drawable/toko3</item>
+        <item>@drawable/toko4</item>
+        <item>@drawable/toko5</item>
+        <item>@drawable/toko6</item>
+    </string-array>
+</resources>
